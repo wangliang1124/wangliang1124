@@ -94,10 +94,3 @@ I am a frontend / full-stack engineer with 9 years of experience building mobile
 
 - GitHub: [wangliang1124](https://github.com/wangliang1124)
 - Email: [wangliang1124@163.com](mailto:wangliang1124@163.com)
-
-## GitHub Stats
-
-<div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangliang1124&hide=html,css,Jupyter+Notebook,ruby,Makefile,Less,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=default" align="center" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wangliang1124&show_icons=true&theme=default&count_private=true" align="center" />
-</div>
